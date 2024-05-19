@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhasree Saha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<image align="right" alt="coding" height="300px" width="400px" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<image align="right" alt="coding" height="400px" width="400px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 💻 Aspiring Frontend Developer
 
