@@ -1,4 +1,3 @@
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=4ed710&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Subhasree+Saha+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Subhasree Saha and Welcome to my Profile! animated typed out" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=ab10d7&center=true&vCenter=true&width=940&lines=A+passionate+frontend+developer+from+India" align="middle" alt="A passionate frontend developer from India animated typed out" width="100%"/>
 <image align="right" alt="coding" height="300px" width="300px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
@@ -30,3 +29,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhasreegithub&theme=onedark" alt="Subhasreegithub" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhasreegithub&show_icons=true&locale=en&layout=compact" alt="subhasreegithub" /></p>
+
+<h3 align="left">  🏆 GitHub Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhasreegithub&theme=juicyfresh" alt="subhasreegithub" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=subhasreegithub&label=Profile%20views&color=0e75b6&style=flat" alt="subhasreegithub" /> </p>
