@@ -6,7 +6,7 @@
 
 💻 Aspiring Frontend Developer
 
-🌐 Skilled in HTML, CSS
+🌐 Skilled in HTML, CSS, JAVA, SQL
 
 🌱 I’m currently learning JavaScript
 
